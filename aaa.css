@@ -1,0 +1,8 @@
+
+.test-scss {
+    color: red !important;
+
+    .inner {
+        @include test-mixin;
+    }
+}
