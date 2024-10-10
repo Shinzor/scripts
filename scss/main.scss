@@ -1,0 +1,13 @@
+@import 'variables';
+@import 'components/buttons';
+
+body {
+    background-color: $primary-color;
+    color: $text-color;
+    font-family: $font-stack;
+}
+
+.container {
+    @include flex-center;
+    padding: 20px;
+}

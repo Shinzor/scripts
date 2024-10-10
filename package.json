@@ -1,12 +1,12 @@
 {
-  "name": "scripts2",
+  "name": "scripts",
   "version": "1.0.0",
+  "description": "Confluence Custom Styles with SCSS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch:sass": "sass --watch scss:css"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Your Name",
   "license": "ISC",
-  "description": ""
+  "devDependencies": {}
 }
