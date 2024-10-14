@@ -1,4 +1,4 @@
-
+<style>
 .test-scss {
     color: red !important;
 
@@ -6,3 +6,4 @@
         color: yellow !important;
     }
 }
+</style>
